@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Future of Australian Mining</title>
+    <link>/categories/articles/</link>
+    <description>Recent content in Articles on Future of Australian Mining</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The closer you develop gas, the cheaper it will be</title>
+      <link>/2018/07/16/gas-supply/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/07/16/gas-supply/</guid>
+      <description>Nobody had much heard of the Gas Supply Opportunities Outlook or the “GSOO”) before, but the version released in March last year changed the government’s approach to gas markets almost overnight. That report warned that in 2018 southern Australia was headed for a 10 to 54 petajoules gas shortage.1
+Within a week Australia’s gas industry was called to Canberra to meet with the Prime Minister, and other relevant Ministers, to discuss how to respond.</description>
+    </item>
+    
+    <item>
+      <title>The coal era is not coming to an end</title>
+      <link>/2018/06/22/coal-era/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/22/coal-era/</guid>
+      <description>When the Hazelwood power station shut last year the Australian Conservation Foundation claimed that its closure was a signal that “the era of polluting coal is coming to an end.”1
+In its last full year of operation, the Hazelwood power station generated 10 terawatt hours of coal power.2 In the last year, coal fired power generation has increased in the Asia Pacific region by 330 terawatt hours. So, in effect, in just one year, the Asian region has brought online the equivalent of 33 Hazelwoods - while we shut one coal fired power station in Australia.</description>
+    </item>
+    
+  </channel>
+</rss>

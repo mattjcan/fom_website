@@ -1,0 +1,194 @@
+---
+title: "Mining has never been more important - Speech to the Centre for Strategic and International Studies, Washington DC"
+author: "Matt Canavan"
+date: '2018-03-09'
+slug: csis
+categories: [speeches]
+tags: []
+output:
+  tufte::tufte_html: 
+    fig_height: 4
+---
+
+The German historian Alexander Dermandt once compiled 210 reasons for the fall of the Roman Empire. One of the 210 reasons was the depletion of its mineral resources.[^1]
+
+Even though I am a bit of a Roman history buff, I do not know whether Alexander was right or wrong. Whatever happened back then, our modern society is more reliant on the cheap availability of mineral resources than Rome.
+
+Take the smartphone. Most of us, if not all of us, have one on us this morning, and I am going to spend a bit of time talking about it today.
+
+Twenty-five minerals and metals go into the production of a smartphone; one of them is neodymium.[^2] Neodymium is classified as a rare earth and, among other uses, it is used to make a special kind of magnet that is used in the speakers of a smartphone. Without neodymium our smartphones would sound tinny.
+
+Mining has never been more important to society than it is today. Historic periods are often marked by advances in mining and metallurgy. The Bronze Age, the Iron Age and the Steel Age. The modern economy is so reliant on so many minerals that it can not be reduced to one, perhaps we should just go with the moniker the Mineral Age to describe it.
+
+Some modern minerals were not even known to the Romans, neodymium was only discovered in 1885. But even for elements that have been in use since ancient times, the extra production that is required to feed the ravenous modern economy is staggering.
+
+We need to produce as much copper in the next couple of decades years as we have produced for all of human history.[^3]
+
+Most of this growth and demand is being driven by the untrammeled economic growth of Asia. Their increasing demands will put major pressure on almost all mineral and energy commodities. While it may seem a daunting task, it is a challenge the world has met over the past 50 years.
+
+We have met that challenge largely through the free and open investment and trade in minerals that has unlocked the power of business enterprise. Today I will argue that while meeting future resource needs may seem daunting, we have met the challenge for the last 50 years because we have supported innovation, free markets and cooperation in our region. In my view that remains the recipe to maintain our economic prosperity for the next 50 years.
+
+## The need to secure critical minerals 
+
+In December last year the US Government published a Presidential Executive Order which tasked the United States Secretary of the Interior, in consultation with the US Secretary of Defense, to develop a list of minerals that were "critical materials", and to finalise a Critical Minerals Strategy by June this year.
+
+A couple of weeks ago the United States Geological Survey published a draft list of 35 minerals that it deemed critical to US National Security and the economy.[^4]
+
+The information age relies on a more diverse and complex list of minerals than the industrial age. Even the most modern steam turbines, using advanced metal alloys, which allow for high temperatures and greater efficiencies, rely on 11 different minerals for their construction.[^5] As noted above, a smartphone contains 25 different minerals and metals. A solar panel relies on 16 different minerals and metals.[^6] So the United States Government is correct to prepare a plan for these critical minerals.
+
+Of the 35 minerals on the US Government list, China is the top producer for 19 of them, and the top supplier for 12 of them. A sensible risk diversification strategy for the United States would be to support a greater diversity in the production and supply of these critical minerals.
+
+While Australia is the top producer for only three of these minerals, lithium, zirconium and hafnium, Australia has identified resources for 14 of them.[^7] For 13 of these materials —including antimony, cobalt and uranium — Australia is in the top 5 countries for Economically Demonstrated Resources.
+
+I am confident that Australia is also likely to have reserves of more than 14 identified resources – however as the demand for these minerals is so new there has not been sufficient exploration yet.
+
+To provide some practical examples on Australia's potential to supply these resources:
+
+Australia produces 18 of the 25 minerals and metals that go into a smartphone.
+Australia produces 10 of the 16 minerals and metals that go into a solar panel.
+In 2016, China was the world's largest producer of rare earths, at 105,000 million tonnes of production. Australia is the world's second largest producer at 14,000 million tonnes annually. Lynas, a large Australian producer of rare earths has the world's highest quality resource at Mt Weld in Western Australia, and their other projects developing in Australia too.
+
+Australia is the largest producer of lithium, the key mineral for modern batteries. Our production of lithium has trebled in the past 8 years with today Australia producing 41 per cent of the world's lithium production.
+
+For almost all of these resources Australia has hundreds of years supply at current rates of production. Of course, there is the potential for production to increase rapidly and for these exhaustion rates to consequently shorten. In any case, there is unlikely to be a physical shortage of many of these minerals. The key will be creating the economic conditions to guarantee a diverse supply of resources for countries like the United States from around the world.
+
+On Prime Minister Turnbull’s visit to America last month he and President Trump agreed to a critical minerals alliance to cooperate on ways to increase the production and availability of these minerals. Given Australia's abundant potential we welcome this commitment and look forward to working with US officials on how we can secure further exploration, extraction, processing and research.
+
+Some critical minerals are the by-products of traditional metallurgical practices. Tellurium, used in the production of solar panels and semiconductors, is a byproduct of copper refining. Other major mineral commodities such as gold, lead, zinc, nickel, and iron also are important potential sources for byproduct critical mineral production.
+
+Therefore, to increase the production of many critical minerals there is a need then to make new commercial finds of more well known mineral deposits like copper, gold and zinc. Australia's first big copper find was at a place called Wallaroo in South Australia in 1859.[^8] It was discovered by a stockman who noticed a burrowing wombat was throwing up green rocks. On inspection these green rocks contained copper.
+
+Most of Australia's past mineral discoveries have been found with a variation of the wombat method. Outcropping, or rocks exposed to the surface, have been found to contain various mineral deposits and that's the areas that have been drilled. Because most of this outcropping has been explored, new finds in Australia are unlikely to be found by wombats.
+
+However, outcropping only covers about 30 per cent of Australia's landmass. Fortunately, there are modern techniques that allow us to uncover this surface and see what is below. There is no reason why there would not be just as many large mineral deposits under the 70 per cent of Australia that remains unexplored, as has been proven across the 30 per cent of Australia where exploration and mining activities have delivered the wealth of resources we currently produce.
+
+The Australian Government is investing $100 million in aeromagnetic surveys, seismic testing and other modern methods to uncover what is beneath. We would welcome cooperation with the United States on the development of these techniques as a part of the strategy to securing future supplies of critical minerals.
+
+I had productive discussions with my counterpart, Ryan Zinke, the Secretary for the Interior, this week. We have agreed to work on a Memorandum of Understanding between the United States Geological Survey and Geosciences Australia, to identify resources of critical minerals and to share knowledge on the latest exploration techniques to secure more supplies of these resources.
+
+## Meeting the resource needs of Asia 
+
+The other critical resource for a modern economy remains energy. While energy as a share of GDP has been falling in developed countries, many elements of a modern economy remain energy intensive. Again I am going to use the example of a smartphone.
+
+A mobile phone takes about 1 gigajoule of energy to produce, and around 2 billion are sold every year, working out to about 2 exajoules of energy in total. Compare that to cars. The manufacture of an average car requires around 100 gigajoules of energy, with around 70 million cars sold globally every year, this works out at about 7 exajoules of energy. On a per unit basis, the production of a car requires 100 times more energy than a mobile phone, as you would expect, but because of the size of the mobile phone market, their production requires almost 30 per cent of the energy to produce cars.[^9]
+
+Scientific developments have delivered rapid increases in the efficiency of converting physical energy sources into usable energy and electricity for modern tasks.
+
+Yet despite the increase in such efficiencies world energy is not about to decrease. The combination of the need for energy to produce more products (like a smartphone) and the fact we still have more than 1 billion people with no access to electricity, means that energy production will still grow significantly in coming years. Things have not changed much since the British economist, Stanley Jevons, noted this very phenomenon in 1865. Jevons noted that despite steam engines improving the efficiency with which they converted coal into energy, the demand for coal continued to increase rapidly. As energy prices fell this stimulated more demand for energy consuming activities and products.
+
+Predicting what energy sources will meet that demand is a fool's game. As the energy analyst, Vaclav Smil, has commented "Forecasts and scenarios abound, but the history of energy advances has shown that failure to foresee is their most common trait."
+
+Take coal use. At the beginning of this century, the International Energy Agency forecast that worldwide demand for thermal coal in the year 2020 would be 3.3 billion tonnes of oil equivalent.[^10] By 2015 thermal coal use had already reached 3.8 billion tonnes of oil equivalent, 15 per cent higher than predicted in 2000, and 5 years earlier too.[^13]
+
+I am not picking on the IEA. No one foresaw the rapid growth of China that has led to such a remarkable increase in the demand for a range of commodities including coal. Coal has helped fuel the development of China and hence helped hundreds of millions of people emerge from lives of crushing poverty.
+
+I hope that economic growth can continue to surge and reduce poverty even further. No country in the world has lifted itself from poverty to prosperity but for a rapid increase in the use of energy, almost always energy powered by fossil fuels.
+
+In the immediate future renewable energy cannot provide the spur to provide large scale development of poor countries. Renewable power is too unreliable and too expensive to do so. The rhetoric on renewables often dangerously departs far from this reality. If we succumb to some of the fairytales told about renewables, we will deprive developing countries of the world the same opportunity we have had, and other countries have recently had, to develop.
+
+So with those qualifications out of the road, I do want to make some tentative comments about the likely future demand for fossil fuels.
+
+The first point to make is that the use of coal and gas across the world is not slowing down. In the first 15 years of this century the use of thermal coal increased by 73 per cent and gas increased by 42 per cent. In the 15 years prior to that, thermal coal use increased by only 25 per cent, and gas by 47 per cent.[^11]
+
+Yet some serious commentators argue that the market for fossil fuels is in structural decline.
+
+The latest projections for future fossil use do not foresee a market in structural decline but they do see growth slowing especially for coal. But given the past growth in the use of coal, and the very large amount of it used now, even just maintaining coal production at current levels is a huge challenge.
+
+Based on the projections of the International Energy Agency, the world will need to produce as much coal for the first 40 years of the 21st century as we have in the whole of history before. The numbers are astounding. According to data compiled by Vaclav Smil, the world had produced 5,700 exajoules of coal from 1800 through to the year 2000.[^12] In the first 40 years of this century, BP estimates that the world will need over 6,000 exajoules of coal.[^14] 6,000 exajoules is enough energy to fly from New York to Los Angeles 2.5 billion times on a Boeing 747.
+
+The world has abundant supplies of coal and gas and we should be able to produce these amounts. A failure to do so would increase energy costs, limit economic growth and prevent hundreds of millions of people emerging from poverty.  If the opponents of fossil fuels artificially prevent their production that would increase energy costs, limit economic growth and consign hundreds of millions of people to poverty.
+
+In practice, fossil fuel opponents are only likely stop production in developed countries, and this is likely to have the perverse outcome of potentially increasing carbon emissions and damaging the environment. Take the coordinated and ill-informed campaign against the Adani Carmichael coal mine in Queensland, Australia.
+
+This coal mine is proposed in a previously undeveloped coal basin in Australia, the Galilee basin. The coal from the mine is set to supply power stations in India. India has plenty of coal but it is typically of low quality and has a high ash content. The coal at the Carmichael has an energy content more than 50 per cent higher than most Indian coals.
+
+If activists successfully stop the mine, India will still use coal, just lower quality coal. That means higher carbon emissions for every tonne of coal burned and a poorer outcome for the environment. Regardless, stopping the mine will do nothing to prevent global warming. The total output of the mine amounts to 0.4 per cent of current worldwide thermal coal production.
+
+Switching to gas fired electricity offers even greater reduction in carbon emissions. Combined cycle gas turbines produce less than half the carbon emissions of even the most efficient coal fired power stations. But again, there is an ignorant campaign against unconventional gas techniques in Australia. The same techniques that are used here in the United States and are driving an energy revolution here and across the world.
+
+There are vast reserves of shale gas in the Northern Territory in Australia. My geoscientists predict there could be enough gas there to meet Australia's demands for 200 years. This week I have been at CERAWeek, a major energy conference hosted Houston. There is a lot of interest in the Northern Territory resource and some suggest it could be as productive as the shales here in the states.
+
+Yet, right now the Beetaloo Basin can not be developed because of a moratorium imposed by the Northern Territory Government as it conducts a review of shale gas production techniques. It is the 5th review in 6 years in the Northern Territory, and all of the previous reviews concluded that a gas industry should be permitted with appropriate regulation.
+
+We need to counter the misinformation that is preventing the appropriate development of natural resources. Permanent bans on gas developments is not based on any form of scientific evidence. It is a "voodoo science" that promotes fake facts over hard data.
+
+This campaign of ignorance denies Australians economic opportunity and our region abundant energy sources. Australia has become rich and prosperous in the past 50 years in part because of our exports of natural resources to Asia. In some respects, we have had a charmed period, during which there has not been major competition from a developed country to supply resources to the region.
+
+That situation is changing. As President Trump, mentioned in his State of the Union address, the United States is about to become a net energy exporter for the first time since the 1970s. Australia will face more competition to supply Asia for energy resources.
+
+While that is an obvious challenge to us, it is something that should spur Australian industry to become more productive. Competition is healthy and is the best way to produce better economic outcomes.
+
+I welcome the challenge of the US expanding its energy exports. Australia has grown rich through the export of our resources, so we can hardly complain about another country seeking to replicate our success. Imitation is still the best form of flattery.
+
+Ultimately, both the United States and Australia benefit from a secure and prosperous Indo-Pacific region. The affordable and reliable supply of energy is a prerequisite to deliver this harmonious outcome. Cheap energy can help underpin economic growth, and economic prosperity helps support political stability and further our mutual national security goals.
+
+## The need for cooperation between countries
+
+Australia should cooperate with the United States on the development of better functioning energy markets in our region. As well as the agreement on critical minerals, Prime Minister Turnbull and President Trump also agreed to the Australia-US Strategic Partnership on Energy in the Indo-Pacific.
+
+This Partnership is a high-level agreement between Australia and the US to work together to promote regional infrastructure development and energy cooperation, open and competitive energy markets and improved rules and standards in the Indo-Pacific. The Partnership identifies three priorities for the 2018-2019 work plan, namely: energy infrastructure development; deployment of low emissions technologies; and development of open and rules-based global markets for natural gas.
+
+While specific initiatives under the Partnership are still to be agreed, cooperation could include:
+
+- leveraging Australian experience in innovative business models including Public Private Partnerships (PPPs) to support the development of energy infrastructure projects,
+
+- working to improve international standards on energy infrastructure development,
+engaging with countries in the region to reduce barriers to adoption of low emissions technologies,
+
+- providing capacity building to help create an even playing field for gas and other fuels, and
+
+- encouraging financial support and assistance for projects, including from relevant multilateral banks.
+
+This Partnership is also consistent with the Japan-United States Energy Partnership, and Japan's commitment to invest $10 billion to develop LNG infrastructure in the Asian region announced in October last year.
+
+While we will compete with the United States to supply energy, it makes sense for us, and other like-minded nations, to cooperate in our region to develop the size of energy markets. There is a strong rationale for Australia, the United States and other countries to form a broader alliance that seeks to promote the use of more efficient, and hence more environmentally, friendly fossil fuels. If we increase the size of the pie we can both benefit.
+
+The best way we can underpin economic growth in our region is to promote the wide availability of natural resource. This includes promoting a diverse source of supplies of critical minerals and energy resources.
+
+We have a template of success before us. The rapid economic growth of Asia since the second world war has been underpinned by the relatively free and open trade and investment of natural resources. Australia continues to believe that the best way to continue to meet the growing needs of developing countries is to promote commerce, entrepreneurship and cooperation in market development.
+
+Stable markets and relationships will also promote cooperation that will also encourage innovation and efficiencies. Greater efficiencies will also help us reduce carbon emissions and improve environmental outcomes. The proven method to improve the environment is to deliver economic growth. Typically, the richer a country is the more resources they devote to environmental protection.
+
+The agreements we have struck with the United States on critical minerals and energy seek to repeat this successful recipe. The minerals and energy sources are different. So are the challenges given the well funded and determined campaigns against fossil fuels.
+
+In my view, however, the economic opportunities of hundreds of millions in the Asia-Pacific hang off the voice of reason succeeding on the fossil fuel debate. That prize is worth fighting for. Science and reason is worth defending. Maintaining the responsible use of our natural resources is a prerequisite to maintain our economic prosperity.
+
+The outcome of this debate could determine where hundreds of millions of people fall on the poverty or prosperity side of the line so we have a moral reason to win this debate too. When I first became elected to the Senate an American ice cream company, Ben & Jerry's, was running a campaign against coal mining with the catchphrase "scoop ice cream, not coal".
+
+The more I thought of their campaign the more frustrated I got. Here was an ice cream company lecturing a mining company on morality. I thought ok let's compare the morality of ice cream compared to mining. No don't get me wrong I like ice cream, but I concluded that the moral purpose of ice cream was to make rich people fat. The moral purpose of coal mining is to make poor people warm. I am proud of Australia's mining industry, and I am happy for it to take the Pepsi morality challenge against almost all other modern industries.
+
+Because almost all other modern technologies, mobile phones, laptops, renewable energy rely on the mining sector to survive. Without mining there would be no wind turbines, no solar panels and no electric cars. Mining has never been more crucial than it is now.
+
+But mining has always been a key ingredient to a civilisation's success. One of the biggest mines in the Roman empire was located at Rio Tinto, river in southwestern Spain. Among other things, the lead from that mine was a crucial input for pipeline construction that supported the Romans vast network of aqueducts. The mine was later revived in the late 19th century, by British investors who went on to form the company we know today as Rio Tinto.
+
+I have no idea whether Rome really did fall because of a depletion of its natural resources but successfully maintaining the responsible use of our resources at least will let us turn our attention to the other 209 reasons that might cause our civilisation to fall.
+
+Let’s support mining because the future prosperity of the world depends on us doing so.
+
+[^1]: Demandt, A. 1984, *Der Fall Roms*, https://courses.washington.edu/rome250/gallery/ROME%20250/210%20Reasons.htm
+
+[^2]: https://www.resourcesandenergy.nsw.gov.au/about-us/news/2016/the-periodic-table-of-mobile-phones
+
+[^3]: https://www.uncoveraustralia.org.au/
+
+[^4]: USGS 2018, *Draft Critical Mineral List—Summary of Methodology and Background Information—U.S. Geological Survey Technical Input Document in Response to Secretarial Order No. 3359*, Open-File Report 2018–1021
+
+[^5]: http://plainsjustice.org/files/ElkRun/Elk_Run_References/Materials%20issues%20for%20turbines%20for%20operation%20in%20ultra-supercritical%20steam.pdf
+
+[^6]: Society for Mining, *Metallurgy and Exploration 2010, Fact Sheet Solar Panels: Metals & Mineral Products used to make a Solar Panel*, https://mineralseducationcoalition.org/wp-content/uploads/mec_fact_sheet_solar_panel_0.pdf
+
+[^7]: Britt, A., Summerfield, D., Senior, A., Kay, P., Huston, D., Hitchman, A., Hughes, A., Champion, D., Simpson, R., Sexton, M. and Schofield, A. 2017, *Australia’s Identified Mineral Resources*, Geoscience Australia, Canberra. http://dx.doi.org/10.11636/1327-1466.2017
+
+[^8]: Knox, M. 2013, *Boom: The Underground History of Australia, from Gold Rush to Goldfields*, Viking Press.
+
+[^9]: Smil, V. 2017, *Energy and Civilization: A History*, MIT Press.
+
+[^10]: IEA 2000, *World Energy Outlook 2000*, Paris, p. 91.
+
+[^11]: IEA 2017, *World Energy Outlook 2017*, Paris.
+
+[^12]: IEA 2017, *Coal Information 2017* and IEA 2017, *World Energy Balances 2017*
+
+[^13]: https://ourworldindata.org/fossil-fuels
+
+[^14]: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html
