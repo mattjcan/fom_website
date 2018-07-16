@@ -1,5 +1,5 @@
 ---
-title: "The closer you develop gas, the cheaper it will be"
+title: "To get cheaper gas we need to develop more gas"
 author: "Matt Canavan"
 date: '2018-07-16'
 slug: gas-supply
@@ -31,7 +31,10 @@ I did not think that I, as a Liberal-National Minister for Resources, would pres
 
 Australia's gas industry has changed dramatically in the last decade. Before 2010 Australia had never exported more than 20 million tonnes of gas in a year. By 2017, annual exports had more than doubled to 45 million tonnes. By 2020, Australia expected to export almost 80 million tonnes of gas, and overtake Qatar as the world's largest exporter of gas. 
 
-**do we have data on international gas exports**
+```{r}
+p_exports
+```
+
 
 Most of our gas exports are from Western Australia and so have had almost no impact on the domestic availability of gas in eastern Australia. And, the LNG projects in the west contribute to a domestic gas reservation policy there (set at 15 per cent of exports).  
 
@@ -65,9 +68,11 @@ grid.arrange(p_gap$vic_bris + theme_blog, p_gap$vic_asia + theme_blog, ncol = 2)
 
 Southern Australian prices have risen in part because Australian gas markets have been connected to the world. However, prices have risen by more in southern Australia than elsewhere because the supply of gas in southern Australia has fallen at the same time that Australia's exports have increased. 
 
-For the past 40 years most of Australia's gas has come from production offshore of Victoria, in the Bass Strait. These fields, however, are declining in quantity and quality. New gas supplies from the Bass tend to have higher mercury and carbon dioxide content so they are more costly to process. ==Gas production from Victoria is expected to fall by 27 per cent in 2018, a total fall of 111 PJ of gas. [This figure is from last year's GSOO. Can we get updated figures?]== 
+For the past 40 years most of Australia's gas has come from production offshore of Victoria, in the Bass Strait. These fields, however, are declining in quantity and quality. New gas supplies from the Bass tend to have higher mercury and carbon dioxide content so they are more costly to process. Last year's GSOO projected that gas production from offshore Victoria would be 100 PJ lower than in recent years. While production may end up higher than these projections they represent the risks that Australia's traditional production sources will be on the decline. 
 
-==insert figure on supply in southern Australia - what has been the production figures pre 2017?== 	
+``` {r}
+p_bass
+```
 
 The only area in Australia that could make up this shortfall is the coal seam gas fields of Queensland. The Queensland coal seam gas fields have consistently contributed to the domestic gas market as a whole over the past few years. Indeed, the Queensland coal seam gas industry as a whole has never exported more gas than it produces over a 12 month period. 
 
