@@ -18,9 +18,6 @@ It would be pretty lame if that was it, wouldn't it? Fear not, you can tinker wi
 
 We all know why you're here: the sidenotes. This is rather easy. Just make sure you have the `tufte` package installed and then, in an inline r chunk, wherever you want to put a side note call the following. 
 
-```
-tufte::margin_note("This is a margin note")
-```
 
 The above produces the following: `r tufte::margin_note("This is a margin note")`
 

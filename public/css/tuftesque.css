@@ -308,9 +308,19 @@ section {
   padding-bottom: 0.2rem; 
 }
 
+#mjc-copyright p { 
+  font-size: 1rem; 
+}
+
+.footnotes p { 
+  font-size: 1.2rem; 
+}
+
 p, ol, ul { 
   font-size: 1.4rem; 
 }
+
+
 
 p { 
   line-height: 2rem;
@@ -359,7 +369,7 @@ blockquote footer {
 }
 
 ol, ul { 
-  width: 60%;
+  width: 100%;
   -webkit-padding-start: 5%;
   -webkit-padding-end: 5%; 
 }
@@ -481,7 +491,7 @@ img {
 }
 
 p, footer, table, div.table-wrapper-small, div.supertable-wrapper > p, div.booktabs-wrapper { 
-  width: 55%; 
+  width: 65%; 
 }
 
 div.fullwidth, table.fullwidth { 
