@@ -20,7 +20,7 @@ library(knitr)
 source("C:/Users/matt/Dropbox/01a. Resources/R/gas/gas.R")
 ```
 
-Nobody had much heard of the *Gas Supply Opportunities Outlook* or the "GSOO") before, but the version released in March last year changed the government's approach to gas markets almost overnight. That report warned that in 2018 southern Australia was headed for a 10 to 54 petajoules gas shortage.[^gsoo]
+Nobody had much heard of the *Gas Supply Opportunities Outlook* or the ("GSOO") before, but the version released in March last year changed the government's approach to gas markets almost overnight. That report warned that in 2018 southern Australia was headed for a 10 to 54 petajoules gas shortage.[^gsoo]
 
 Within a week Australia's gas industry was called to Canberra to meet with the Prime Minister, and other relevant Ministers, to discuss how to respond. The Prime Minister said immediately after the meeting that:
 
@@ -91,25 +91,25 @@ Over the past 12 months, the Queensland CSG industry has contributed almost 100 
 
 Coal seam gas's contribution has offset the reduced productivity of the Bass Strait. However, to paraphase John Laws "oils aint oils", and "gases aint gases". Queensland coal seam gas is more costly to produce and there are significant costs to transport CSG to southern Australia.
 
-Coal seam gas production differs greatly from the offshore gas production in the Bass Strait. First, there is no oil derived from CSG so costs have to be recouped through the sales of just gas. Second, those costs are higher because more wells must be drilled. One of the Queensland CSG joint ventures produces the same amount of gas from over 2000 CSG wells that the Darwin LNG project from just 12 offshore wells. CSG also differs from the shale gas in the United States, where oil is often produced and directional drilling allows for fewer wells. 
+Coal seam gas production differs greatly from the offshore gas production in the Bass Strait. First, there is no oil derived from CSG so costs have to be recouped through the sales of just gas. Second, those costs are higher because more wells must be drilled. One of the Queensland CSG joint ventures produces the same amount of gas from over 2000 CSG wells that the Darwin LNG project produces from just 12 offshore wells. CSG also differs from the shale gas in the United States, where oil is often produced and directional drilling allows for fewer wells. 
 
-Further, future coal seam gas projects have even higher costs than those in production. Wood Mackenzie analysis indicates most  coal seam gas projects would require a price of higher than \$8 per gigajoule to come into production. (The CSG projects below \$8 per gigajoule, like Clarence-Moreton and Sydney, are not proceeding due to regulatory barriers.)
+Further, future coal seam gas projects have even higher costs than those in production. Wood Mackenzie analysis indicates that most  coal seam gas projects would require a price of higher than \$8 per gigajoule to come into production. (The CSG projects below \$8 per gigajoule, like Clarence-Moreton and Sydney, are not proceeding due to regulatory barriers.)
 
 ![](img/costs.png)
 
 Moreover, the cost of transporting gas from Queensland to southern Australia is expensive. A recent ACCC report found that the costs of transport from Queensland to Melbourne range from \$2 per gigajoule to \$3.81 per gigajoule depending on how much flexibility the customer prefers. Transport costs are therefore at least around 25 per cent of the total cost of gas in southern Australia. 
 
-The costs of sending gas from Western Queensland to Japan is around \$2.50 to \$3.00 per gigajoule (including the costs of liquefaction). So Japan may be geographically distant from Queensland but from an economic perspective it is not that far away. 
+The cost of sending gas from Western Queensland to Japan is around \$2.50 to \$3.00 per gigajoule (including the costs of liquefaction). So Japan may be geographically distant from Queensland but from an economic perspective it is not that far away. 
 
-If Victoria does not develop its own natural resources it will end up paying the import price for gas, as is the case of North Asia. That will erode what was once a natural advantage for Victoria.
+If Victoria does not develop its own natural resources it will end up paying the import price for gas, as is the case in North Asia. That will erode what was once a natural advantage for Victoria.
 
-The basic principle is that gas prices are cheaper close to where gas is produced. That is clearly evidence when you look at gas prices around the world. Prices tend to be cheaper where gas is produced locally in abundance. The price of gas in the United States is much cheaper than that in other countries that rely on imports for gas consumption.  
+The basic principle is that gas prices are cheaper close to where gas is produced. That is the clear conclusion when you look at gas prices around the world. Prices tend to be cheaper where gas is produced locally in abundance. The price of gas in the United States is much cheaper than that in other countries that rely on imports for gas consumption.  
 
 ```{r fig.height=6}
 grid.arrange(p_p3_inter[[10]] + labs(title = "Henry Hub"), p_p3_inter[[11]], p_p3_inter[[13]] + labs(title = "Singapore Sling"), p_p3_inter[[12]] + labs(title = "Japan"), ncol = 2)
 ```
 
-If we do not want to lose our natural advantage has a producer of cheap energy we must develop our natural energy resources. Victoria's continuing, non-sensical ban on natural resource resource development is threatening thousands of jobs in its manufacturing sector, and consigning millions of Australian families to higher energy bills. The sooner we can see sense, the sooner things will improve.
+If we do not want to lose our natural advantage as a producer of cheap energy we must develop our natural energy resources. Victoria's continuing, non-sensical ban on gas development is threatening thousands of jobs in its manufacturing sector, and consigning millions of Australian families to higher energy bills. The sooner we can see sense, the sooner things will improve.
 
 [^gsoo]: AEMO 2017, *Gas Statement of Opportunities*, March, https://bit.ly/2MS88QE
 
