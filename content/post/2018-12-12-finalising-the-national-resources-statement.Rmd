@@ -1,0 +1,200 @@
+---
+title: Finalising the National Resources Statement
+author: ~
+date: '2018-12-12'
+slug: finalising-the-national-resources-statement
+categories: [speeches]
+tags: []
+excerpt: "The government will finalise the first National Resources Statement for 20 years. This speech to the Melbourne Mining Club maps out the broad outlines of the government's thinking on the statement."
+output:
+  tufte::tufte_html: 
+    fig_height: 4  
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo=FALSE, warning=FALSE, message=FALSE, dpi = 300, fig.height = 4)
+
+library(knitr)
+
+```
+
+# Speech to the Melbourne Mining Club
+
+Perhaps the most famous history of the Australian resources sector, written by Geoffrey Blainey, is subtitled "The rush that never ended". The first edition of that book was written 55 years ago, and I don't think the rush has ended yet.
+
+Since the mid 2000s, employment, production and tax revenues in and from the resources sector have all more than doubled, and wages in the resources sector have increased by more than 70 per cent. Australia's resources industry has never been more important to our economic wealth and prosperity than it is today.
+
+There is no guarantee, however, that our resources sector will maintain this record. We have got to where we are, in large part, through consistent and progressive policy settings that have attracted investment and supported employment. The opportunity to continue to grow our resources sector remains, but so does the challenge to continue the open and supportive policy settings that have helped herald growth in the sector.
+
+That is why earlier this year I commissioned the Resources 2030 Taskforce to take stock of resources policy and position our resources sector for success over the next decade and longer. The taskforce was chaired by Andrew Cripps, a former Queensland Resources Minister, and I want to thank all of the members of the team for their work. I want to especially recognise those members who are here today, including the chair Andrew Cripps, Mike Henry, Will Robinson, Adrienne Rourke and Paul Flynn. Theirs is a comprehensive and visionary report.
+
+In response to the work of the taskforce, the Government is in the process of developing Australia's first National Statement on Resources for 20 years. Next week I will discuss with state and territory ministerial colleagues, at the COAG Resources Council, the broad outlines of the Government's response. I am advised that this will be the first dedicated meeting of resources ministers at the COAG level. Previous meetings have involved discussions on other matters like energy.
+
+I will seek collaboration with state and territory governments across many aspects of the Government's approach before we finalise the National Resources Statement early next year.
+
+I have always hoped that this exercise can be a unifying one across political parties and different levels of government. The success and growth of our resources sector should be a shared national priority.
+
+Today I want to take you through some of our early thinking about how to best position national policy settings so that our resources sector continues to provide the fuel for national economic growth and advancement. At the heart of that plan is to make Australia's resource sector the best in the world. That should be our aim.
+
+We have a more flowery vision statement which reads "to have the world's most advanced, innovative and successful resources sector which delivers sustained prosperity and social development for all Australians."
+
+Basically though, that statement can be summed up more succinctly as "let's be the best".
+
+## The mining sector's contribution to the Australian economy
+
+Before I do that, however, I think it is always important at times like these to briefly restate how important the resources sector is to our nation.
+
+Together with the mining services sector, the resources sector makes up around 10 per cent of Australia's economy, and its economic impact is even higher on other measures:
+
+- This financial year, the resources sector is expected to generate a record $252 billion in exports, accounting for more than 70 per cent of Australia's goods exports.
+
+- Since 2005, the mining sector has invested $655 billion in Australia, accounting for more than 40 per cent of total investment over this period.
+
+- Since 2005, employment in the mining sector has more than doubled from 104,000 to 243,000. When the mining services sector is included, the broader resources sector provides more than 1 million Australians with a job.
+
+- Wages in the resources industry are the highest of all Australian industries, more than double the average wage, and the average wage in the resources sector is 40 per cent higher than the industry with the next highest wages.
+
+As the resources sector thrives so does the rest of Australia. By 2013, the last mining boom had raised real household disposable income by 13 per cent, raised real wages by 6 per cent and reduced the unemployment rate by 1.25 per cent.
+
+The resources sector also contributes above just its measured economic value. For example, more than half of the resource sector's employees live in regional Australia, and the resources sector has the highest proportion of Aboriginal and Torres Strait Islander people working for it - more than any other industry. Since 2006, indigenous employment in mining grew by two and a half times, by comparison indigenous employment in the wider economy grew by more than one a half times.
+
+Finally, the resources sector is a major contributor to helping finance Australia's world class health, education and other public services. In 2016-17, the resources sector paid \$12.1 billion in company tax and \$11.2 billion in royalties. The sector is the second-largest contributor to company tax revenue behind financial and insurance services.
+
+## The future opportunity
+
+On every measure, the resource sector has increased in importance to the Australian economy over the past 15 years. This has come about because investments were secured over this period and we are now benefiting from the legacy of these investments.
+
+There remains plenty of investment opportunities. According to information compiled by the Office of the Chief Economist, there are 250 major resource projects in some stage of planning. Altogether these projects represent around $275 billion worth of investment and they could create over 50,000 jobs in construction and almost 30,000 jobs in operation.
+
+The challenge is to convert this potential into reality. Of that \$275 billion worth of projects only \$30 billion (or 10 per cent) of the projects are in the committed stage, that is they have completed all commercial, engineering and environmental studies, received all necessary government regulatory approvals, and finalised the financing of the project to allow construction.
+
+The largest component of projects is in what the Office of the Chief Economist refers to as the "feasible" stage. A feasible project is one for which an initial feasibility study for a project has at least been completed and the results support further development. If all of the feasible projects converted into actual projects we would create 30,000 jobs and 20,000 jobs in operation. Altogether these projects would represent a more than \$150 billion new mining investment boom.
+
+Over the last 5 years, as the mining boom came off the boil, fortunately for Australia our property sector returned to health, and investment in property has helped support economic growth as mining investment fell. That has especially helped support strong economic conditions in Sydney and here in Melbourne.
+
+Conditions in the property market are softening. We should again focus on ensuring that we can attract mining investment in response, especially given the buoyant state of many commodity markets and the significance of the plans on the table.
+
+## Our plan
+
+Our plan for the resources sector has at its heart the attraction of investment to build a strong economy. I believe we must set a clear vision for what we are trying to achieve together with government, industry and research organisations.
+
+As I mentioned at the outset, I want Australia's resources sector to be the best in the world. My vision is to have the world's most advanced, innovative and successful resources sector which delivers sustained prosperity and social development for all Australians.
+
+To meet this vision it is important we establish some axiomatic principles that guide everything that we do. I will outline in more detail some of the specific actions the government is proposing but perhaps more important is the maintenance of consistent principles that provide certainty for investors over the long term.
+
+1. Australia's national resources wealth belongs to the Australian people and should be developed for their benefit. In particular, the development of the resources sector should contribute to public revenues and provide business and employment opportunities to regional and remote Australia and to indigenous Australians.
+
+2. New policies and regulations should be based on robust science and account for the needs and interests of the broader community, especially the communities where the resource sector operates.
+
+3. Foreign investment remains an important vehicle to develop Australia's resources.
+
+4. We must embrace technological change to remain competitive and responsive and continuously improve environmental outcomes.
+
+The future success of Australia’s resources sector relies on working smarter, safer, cleaner and more efficiently than our competitors. We must identify new resources, enhance workforce skills, manage environmental impacts more effectively and gain widespread support for development.
+
+To meet our overarching vision, we have mapped out five policy goals. These goals are deliberately ambitious and of equal importance - none have priority, or are subordinate, to the others.
+
+1. *Competitiveness*. Deliver the most globally attractive and competitive investment destination for resources projects.
+
+2. *Exploration and New Developments*. Develop new resources, industries and markets.
+
+3. *Innovation*. Invest in new technologies and approaches, especially to deliver better environmental outcomes.
+
+4. *Workforce*. Provide well paid, secure jobs.
+
+5. *Communities*. Support communities to ensure they receive benefits from the development of Australian resources.
+
+I will spend a bit of time talking about how we intend to meet each of these goals.
+
+### Attracting investment
+
+Australia has a hard-won reputation as a leading country for resources investment, yet we have typically not invested in the specific promotion of our nation as a destination for resources investment. In contrast, Australia has marketed its strengths as a land of agricultural opportunity or as a tourist destination.
+
+The Resources 2030 Taskforce identified that more could be done to promote Australia as an investment destination, given the natural advantages and strong record we have. Yesterday, I helped launch a report by Austrade on the lithium opportunities that are available in Australia. I think it is an excellent report and a template for more of what we should be doing to compete for global capital.
+
+There are also new opportunities to expand exports of mining services, not just mining commodities. Since the mining boom Australia's mining services sector has grown considerably. Many Australian mining services companies are already exporting their expertise to overseas resource sectors. The METS (mining equipment, technology and skills) sector currently contributes more than \$90 billion to the Australian economy each year, with current exports exceeding \$27 billion. Its success as an exporter is highlighted by the fact that over 66 per cent of our mining services companies are exporters, and those businesses range in size from less than \$1 million to more than \$100 million in annual sales.
+
+Austrade expects at a macro level to see more mining services opportunities coming from the increased global pressures on water management, corporate social responsibility and environmental management.
+
+At a micro level Austrade is continuing to expand the supply chain relationships we have with major foreign mining companies. This targeted initiative has generated more than $20 million of mining services sales into South America over the last few years.
+
+These are just a couple of examples of where we think we can better harness our trade and investment offices in government to better promote a "brand Australia" in the resources sector.
+
+We need to ensure that Australia has, and is seen to have, competitive business settings and regulatory frameworks to maintain Australia’s position as a leading investment destination. One of the more useful suggestions from the taskforce is the proposal to establish regular benchmarking of policies that impact the resources sector. This will be a key discussion item at next week's COAG meeting.
+
+### Developing new basins
+
+Taking advantage of increased demand for commodities will require the development of new energy and minerals basins. The opening up of new basins is always challenging given the up front costs of developing infrastructure and the need for coordination between producers, investors and customers. Governments can help facilitate and plan for such developments, especially to ensure that local communities maximise the benefits of such new investments.
+
+The Government is already acting to encourage the discovery and development of new basins. The Government has invested $100 million in the Exploring for the Future program which is using the latest exploration techniques to search for new mineral finds in Australia's frontier basins. The Australian Government and the Northern Territory Government have also signed a Memorandum of Understanding to guide the development of the Beetaloo Basin in the Northern Territory.
+
+I have already spoken to some of the state and territory governments about expanding this cooperation and potentially providing support to the UNCOVER initiative over the longer term. Our country is a well explored one and to make new discoveries will require the application of more complex techniques. There is a role for government to help and assist, especially at the pre-competitive stage of development.
+
+The development of Australia's mineral and energy basins has also often helped spur the development of downstream industries in metals manufacturing, power generation or petrochemical industries. For example, the development of bauxite in Cape York led directly to the development of Gladstone and its alumina and aluminium industries. More recently, the mining boom helped spur the development of an extensive mining services sector.
+
+As I previously mentioned, there will be new opportunities to develop further industries on the back of the development of newer minerals industries like lithium. Two companies have already committed to develop lithium hydroxide plants in Western Australia. Processing lithium ore (known as spodumene) to lithium hyrdoxide takes a product worth under \$1000 per tonne to one worth close to \$20,000 per tonne.
+
+The government is working towards a strategy for the development of these industries through a coordinated plan for the lithium and related critical minerals sectors. This will include support for infrastructure development, research and development and investment promotion. I will discuss with the states and territories how we can work together on a National Critical Minerals Strategy to unlock these opportunities for Australia.
+
+The government will build on the existing efforts to develop these industries. The Northern Australia Infrastructure Facility has already provided over \$115 million in support for infrastructure that can unlock lithium and mineral sands opportunities. And, in early 2018 Australia signed an agreement with the United States to work together on the supply and development of critical minerals.
+
+This week Australia and the United States will formalise cooperation on critical mineral resources through the joint signing of a Letter of Intent.
+
+The official Letter of Intent signals our intention to cooperate on matters relating to critical minerals, with Geoscience Australia and the United States Geological Survey to work closely on exploration, extraction, processing and research and development.
+
+Both our nations will now carry out further analysis of the US critical minerals list, identifying those minerals which Australia has the potential to provide as an alternative source.
+
+### Investing in new technologies and approaches
+
+Australia has a well-earned reputation for world class data about our mineral resources and this has helped attract investment. However, through the consultation that fed into the Resources 2030 taskforce, it became apparent that some data sources could be improved. I am supportive of such initiatives.
+
+More generally, data is central to de-risking exploration and development of new basins. Greater access to data will help align government and industry with the longer-term national interests needed for sustainable greenfield exploration programs. This will help to overcome short-term investment horizons often associated with private sector development.
+
+Advances in technology, including high-performance computing, modelling, and big data analytics make the collection and integration of data more effective and efficient. These tools will allow pre-competitive geoscience data to reveal a region’s geological properties and potential. More effective use of this data therefore allows industry to target and evaluate potential resources, reducing the risk associated with exploration.
+
+We see the benefit of having a holistic long-term Resources Data Strategy for the sector. A clear strategy will improve the scope and curation of key data sets, such as the geoscience environment, biodiversity and heritage. This will not only reduce the risk of exploration investment but would also help governments make more informed decisions and better coordinate and prioritise research efforts. It will also enhance environmental management practices and outcomes, and improve information transparency to build community trust.
+
+### Well paid, secure jobs
+
+Perhaps one of the greatest challenges facing the resources sector at the moment is a shortage of skilled labour. It is certainly the most common issue raised with me in Central Queensland at the moment. This lack of skilled labour somewhat perplexes me because only a few years ago 10,000 people were laid off in the black coal mining sector. However, when I ask why won't these people come back the most common reaction I get is that "they don't want to".
+
+That is not a great advertisement for how workers have been treated in the industry in the past. I am going to put it bluntly, I don't think the industry has always provided an attractive and supportive workplace environment. In my short time in politics, I have had to fight against 100 per cent FIFO and the increasing casualisation of the industry.
+
+I don't think these practices are sustainable. And I welcome the efforts of some companies to end such arrangements or move to a more permanent form of work offerings.
+
+Yesterday, the government announced that it would ensure that a right to convert to permanent work will be provided across the mining industry (including the black coal mining industry). This is in response to increasing concerns about the casualisation of mining work, and the fact that mining industry awards have not had the same protections that exist in other awards.
+
+I know there will be concern from some about this change, and the Government will work to ensure that these changes can be practically applied. However, I hope that we can unite around the need for the mining sector to deliver well paid, secure jobs. I know many in the industry are concerned around issues of social licence.
+
+The best way to create a society is to provide secure jobs. That way people can plan for their future, raise a family and invest in their community. Providing such benefits is the best way for the mining sector to maintain wider community support.
+
+The emerging skills shortage will require joint efforts from industry and government in response. The taskforce recommended that governments seek to "map" skills shortages. I will discuss with the states and territories next week how we can start to do that. I especially want to begin with how to tackle the drop off in admissions to our major mining schools.
+
+### Supporting mining communities
+
+Secure, well paid employment is ultimately the best way to build sustainable communities around the mining sector. However, there are other interactions which are crucial, including relationships with local small businesses and indigenous Australians.
+
+I have long been concerned over how small businesses have been treated in the mining supply chain, which was why I referred this matter to a House of Representatives committee, chaired by Barnaby Joyce, earlier this year. The committee reported last week and I think there are many sensible ideas in it.
+
+First is the need to ensure that small and medium sized businesses can manage their cashflow and that excessive payment terms are not imposed on them. Payment terms for small businesses is an item for discussion at COAG this week.
+
+This is something that has particular relevance in the mining sector, especially to support the development of our mining services industry. I welcome that many mining companies in recent months have reformed their payment terms policies. This is a very welcome development.
+
+Perhaps more important, however, is the implementation of the policy itself. I was talking to a lobbyist once about this issue. He was recounting to me how one of the firms he represents was complaining that they already have special terms for small businesses, so why all the fuss. The lobbyist had to pipe up that in fact they, as a small business, were often not paid within the approved time frame because the company's clock would not start until the accounts department got around to "receiving" the invoice.
+
+The basic principle here is that the support of local communities and local businesses must be part of the culture not just a tick-a-box policy approach. This can work. The mining industry deserves rightful praise for how it has approached issues of indigenous development. There, it hasn't been tick-a-box. A real difference has been made, as I described earlier.
+
+Now I think there is the opportunity to formalise the best of these approaches and seek to ensure that they are spread throughout the industry. The taskforce suggestions that a "code of practice" be adopted to guide community engagement and indigenous development is one I will discuss with state and territory officials next week.
+
+## The way forward
+
+And at the COAG resources meeting next week I will also discuss ways of keeping the momentum going on the agenda I have outlined above. The taskforce suggested the establishment of a strategic resources advisory group. I think this a sensible idea, especially to ensure there is an ongoing dialogue between the private, public and research spheres. I will discuss how we might make such a group work next week.
+
+I said earlier that the five policy goals I outlined are not ranked. Just to recap: they were attract investment, develop new industries, invest in new technologies, provide secure well-paying jobs and support mining communities.
+
+As I said, one is not more important than any other but I do want to finish on highlighting the last two. The last two priorities, providing jobs and building communities, are really what this is all about for me. They are the ends not the means.
+
+This is such a fantastic sector because it provides so many fulfilling jobs for so many Australians. And, it helps build our nation to boot.
+
+The rush does not need to end anytime soon, but we must always remain focused on why we are rushing to see the sector succeed. I am confident that we will continue to do that with your support and with the long-term commitment from governments.
