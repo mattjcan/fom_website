@@ -1,0 +1,12 @@
+---
+title: Results from the 2019 Federal Election
+author: Matt Canavan
+date: '2019-06-02'
+slug: results-from-the-2019-federal-election
+categories: []
+tags: []
+---
+
+This is a place to link to maps that show the results of the 2019 Federal election. 
+
+[LNP two party preferred vote by polling place](https://mattjcan.github.io/election_2019_nd/m_aus_tpp.html)
