@@ -9,10 +9,10 @@ tags: []
 
 This is a place to link to maps that show the results of the 2019 Federal election. 
 
-[LNP two party preferred vote by polling place](http://futureofaustralianmining.com/maps/m_aus_tpp.html)
+[LNP two party preferred vote by polling place](https://mattjcan.github.io/election_2019_nd/m_aus_tpp.html)
 
-[Swing to the LNP by polling place](http://futureofaustralianmining.com/maps/m_aus.html)
+[Swing to the LNP by polling place](https://mattjcan.github.io/election_2019_nd/m_aus.html)
 
-[One Nation vote by polling place](http://futureofaustralianmining.com/maps/m_on.html)
+[One Nation vote by polling place](https://mattjcan.github.io/election_2019_nd/m_on.html)
 
-[Greens vote by polling place](http://futureofaustralianmining.com/maps/m_grn.html)
+[Greens vote by polling place](https://mattjcan.github.io/election_2019_nd/m_grn.html)
